@@ -42,7 +42,7 @@ This repository contains practical implementations of key Operating System conce
 ## Usage Instructions
 1. Clone the repository:
    ```
-   git clone https://github.com/pinakkk/Operating-System-Lab.git
+   git clone https://github.com/Shreyas850/Operating-System-Lab.git
    ```
 
 2. Navigate to the specific experiment directory:
